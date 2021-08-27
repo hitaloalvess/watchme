@@ -24,8 +24,9 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-A watchMe é um projeto que tem como intuito a listagem de filmes, separando-os assim por gêneros, e exibindo detalhes como:
+A watchMe é um projeto de listagem de filmes, separando-os por gêneros, e exibindo detalhes sobre cada item. 
 
+Detalhes exibidos:
 - Tempo de exibição
 - Nota
 - Titulo
