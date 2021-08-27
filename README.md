@@ -12,7 +12,7 @@
   <a href="#-como-usar?">Como usar?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-## 🚀 Technologias
+## 🚀 Tecnologias
 
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
