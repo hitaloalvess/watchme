@@ -2,9 +2,9 @@
   <img alt="watchMe" title="watchMe" src=".github/logo.png" width="400px" />
 </h1>
 
-<!-- <p align="center">
-     <img src=".github/executandoAplicacao.gif" alt="watchMe demo" />
-</p> -->
+<p align="center">
+     <img src=".github/preview.gif" alt="watchMe demo" />
+</p>
 
 <p align="center">
   <a href="#-technologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
